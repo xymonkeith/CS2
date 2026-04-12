@@ -24,7 +24,7 @@ Question 1\
  [Next Question]
 
 ## 📌 Contributors
-- Student 1: Chatzkel Cuddy Esmeres (coder, document writer, tester)\
+- Student 1: Chatzkel Cuddy Esmeres (coder, document writer, tester)
 - Student 2: Xymon Keith E. Malquisto (user interface designer, tester)
 
 ## 📌 Sources and Credits
