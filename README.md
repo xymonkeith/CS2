@@ -28,11 +28,11 @@ Question 1\
 - Student 2: Xymon Keith E. Malquisto (user interface designer, tester)
 
 ## Sources and Credits
-MSEd, K. C. (2026, January 23). Gardner's Theory of Multiple Intelligences. Verywell Mind. https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161 \
+MSEd, K. C. (2026, January 23). Gardner's Theory of Multiple Intelligences. Verywell Mind. https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161 
 
-McLeod, S., PhD. (2026). Defense mechanisms in Psychology explained (+ examples). Simply Psychology. https://www.simplypsychology.org/defense-mechanisms.html \
+McLeod, S., PhD. (2026). Defense mechanisms in Psychology explained (+ examples). Simply Psychology. https://www.simplypsychology.org/defense-mechanisms.html 
 
-Paul Ekman Group, LLC. (2025, November 21). Micro Expressions | Facial Expressions | Paul Ekman Group. Paul Ekman Group. https://www.paulekman.com/resources/micro-expressions/ \
+Paul Ekman Group, LLC. (2025, November 21). Micro Expressions | Facial Expressions | Paul Ekman Group. Paul Ekman Group. https://www.paulekman.com/resources/micro-expressions/ 
 
 123test. (2023, May 12). Spatial reasoning test. https://www.123test.com/spatial-reasoning-test/
 
