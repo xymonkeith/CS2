@@ -8,23 +8,23 @@ Project MindMirror is designed to **assess students with puzzle like questions**
 ## Features
 -Display puzzles that tackles different topics\
 -Calculate score in the end\
---Utilizes a polar bar chart to display how well you perform in a type of intelligence
+-Polar bar chart to display how well you perform in a type of intelligence
 
-## How to Run the Program
--Have python installed
-----Download the file: 'MindMirror'
+## Program Installation
+-Have python installed\
+-Download the file: 'MindMirror'
 
 ## Example Output
 1.
 :picture:
-[A]
-[B]
-[C]
-[D]
+[A]\
+[B]\
+[C]\
+[D]\
  [Next Question]
 
 ## Contributors
-- Student 1: Chatzkel Cuddy Esmeres (coder, document writer, tester)
+- Student 1: Chatzkel Cuddy Esmeres (coder, document writer, tester)\
 - Student 2: Xymon Keith E. Malquisto (user interface designer, tester)
 
 
