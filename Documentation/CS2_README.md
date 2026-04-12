@@ -16,7 +16,7 @@ Project MindMirror is designed to **assess students with puzzle like questions**
 
 ## Example Output
 1.
-:picture:
+:picture:\
 [A]\
 [B]\
 [C]\
