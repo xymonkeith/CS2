@@ -15,7 +15,7 @@ Students often compare test scores among each other, creating tension, and makin
 -Download the file: 'MindMirror'
 
 ## 📌 Example Output
-<img width="1031" height="574" alt="Screenshot 2026-04-12 223611" src="https://github.com/user-attachments/assets/24a3639a-9286-4bb3-b375-67eb14ded760" />
+<img width="500" height="700" alt="Screenshot 2026-04-12 223611" src="https://github.com/user-attachments/assets/24a3639a-9286-4bb3-b375-67eb14ded760" />
 
 
 ## 📌 Contributors
