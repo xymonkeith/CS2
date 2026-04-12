@@ -2,8 +2,6 @@
 
 <img width="1000" height="100" alt="Project_MindMirror (1)" src="https://github.com/user-attachments/assets/7c24c5b7-6f6c-47f3-9db2-ac17c22b6491" />
 
-# Project Title: MindMirror
-
 ## Project Description
 Our python program will consist of puzzles to test students. In the end of the puzzles a score will be calculated to show how much you scored in different forms of intelligence.
 
