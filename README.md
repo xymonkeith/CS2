@@ -15,17 +15,12 @@ Students often compare test scores among each other, creating tension, and makin
 -Download the file: 'MindMirror'
 
 ## 📌 Example Output
-Question 1\
-:picture:\
-[A]\
-[B]\
-[C]\
-[D]\
- [Next Question]
+<img width="1031" height="574" alt="Screenshot 2026-04-12 223611" src="https://github.com/user-attachments/assets/24a3639a-9286-4bb3-b375-67eb14ded760" />
+
 
 ## 📌 Contributors
-- Student 1: Chatzkel Cuddy Esmeres (coder, document writer, tester)
-- Student 2: Xymon Keith E. Malquisto (user interface designer, tester)
+- Chatzkel Cuddy Esmeres (coder, documenter, tester, project organizer and uploader)
+- Xymon Keith E. Malquisto (user interface designer, tester)
 
 ## 📌 Sources and Credits
 MSEd, K. C. (2026, January 23). Gardner's Theory of Multiple Intelligences. Verywell Mind. https://www.verywellmind.com/gardners-theory-of-multiple-intelligences-2795161 
