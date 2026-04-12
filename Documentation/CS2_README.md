@@ -1,3 +1,6 @@
+
+
+<img width="700" height="150" alt="Project_MindMirror" src="https://github.com/user-attachments/assets/779b1960-6235-476f-9c42-cfa14f08200f" />
 # Project Title: MindMirror
 
 ## Project Description
