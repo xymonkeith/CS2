@@ -22,8 +22,8 @@ Our python program will consist of puzzles to test students. In the end of the p
  [Next Question]
 
 ## Contributors
-- Student 1: Xymon Keith E. Malquisto (user interface designer, tester)
-- Student 2: Chatzkel Cuddy Esmeres (coder, document writer, tester)
+- Student 1: Chatzkel Cuddy Esmeres (coder, document writer, tester)
+- Student 2: Xymon Keith E. Malquisto (user interface designer, tester)
 
 
 
