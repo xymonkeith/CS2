@@ -34,8 +34,7 @@ MSEd, K. C. (2026, January 23). Gardner's Theory of Multiple Intelligences. Very
 McLeod, S., PhD. (2026). Defense mechanisms in Psychology explained (+ examples). Simply Psychology. https://www.simplypsychology.org/defense-mechanisms.html 
 
 
-Paul Ekman Group, LLC. (2025, November 21). Micro Expressions | Facial Expressions | Paul Ekman Group. Paul Ekman Group. https://www.paulekman.com/resources/micro-
-expressions/ 
+Paul Ekman Group, LLC. (2025, November 21). Micro Expressions | Facial Expressions | Paul Ekman Group. Paul Ekman Group. https://www.paulekman.com/resources/micro-expressions/ 
 
 
 123test. (2023, May 12). Spatial reasoning test. https://www.123test.com/spatial-reasoning-test/
