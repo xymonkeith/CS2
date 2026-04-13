@@ -20,7 +20,7 @@ Students often compare test scores among each other, creating tension, and makin
 
 ## 📌 Contributors
 - Chatzkel Cuddy Esmeres (coder, documenter, tester, project organizer and uploader)
-- Xymon Keith E. Malquisto (user interface designer, tester)
+- Xymon Keith E. Malquisto (UI designer, tester)
 
 ## 📌 Technologies
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
